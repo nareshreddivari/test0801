@@ -1,5 +1,5 @@
 resource_group_name = "Geicoautomationscript"
-location            = "eastus2"
+location            = "westus2"
 app_service_plan_name = "stag-plan3"
 sku_size            = "B1"
 os_type             = "Windows"
